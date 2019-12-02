@@ -1,0 +1,7 @@
+.image{
+    
+    background-size: cover;
+    width: auto;
+    background-image:url('/assets/car3.jpg');
+    background-position:100% 100%;
+}
